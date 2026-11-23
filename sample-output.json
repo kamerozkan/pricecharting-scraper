@@ -1,0 +1,62 @@
+[
+  {
+    "productId": "6889",
+    "name": "Chrono Trigger",
+    "consoleOrSet": "Super Nintendo",
+    "looseOrUngradedUsd": 270,
+    "priceTier2Usd": 799.98,
+    "priceTier3Usd": 1642.1,
+    "priceLabels": [
+      "Loose Price",
+      "CIB Price",
+      "New Price"
+    ],
+    "currency": "USD",
+    "productUrl": "https://www.pricecharting.com/game/super-nintendo/chrono-trigger",
+    "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/rfif6ydrmbugtrol/60.jpg",
+    "sourceQuery": "chrono trigger",
+    "cibPriceUsd": 799.98,
+    "newPriceUsd": 1642.1,
+    "scrapedAt": "2026-11-23T10:03:05Z"
+  },
+  {
+    "productId": "16064",
+    "name": "Chrono Trigger",
+    "consoleOrSet": "Nintendo DS",
+    "looseOrUngradedUsd": 74.99,
+    "priceTier2Usd": 115.29,
+    "priceTier3Usd": 265,
+    "priceLabels": [
+      "Loose Price",
+      "CIB Price",
+      "New Price"
+    ],
+    "currency": "USD",
+    "productUrl": "https://www.pricecharting.com/game/nintendo-ds/chrono-trigger",
+    "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/12f02d39d2364013ede19a319d7fbe3d684980e730851bddf978b59f3fae310f/60.jpg",
+    "sourceQuery": "chrono trigger",
+    "cibPriceUsd": 115.29,
+    "newPriceUsd": 265,
+    "scrapedAt": "2026-11-23T10:03:05Z"
+  },
+  {
+    "productId": "2290850",
+    "name": "Chrono Trigger [First Print]",
+    "consoleOrSet": "Nintendo DS",
+    "looseOrUngradedUsd": 51,
+    "priceTier2Usd": 163.02,
+    "priceTier3Usd": 260.78,
+    "priceLabels": [
+      "Loose Price",
+      "CIB Price",
+      "New Price"
+    ],
+    "currency": "USD",
+    "productUrl": "https://www.pricecharting.com/game/nintendo-ds/chrono-trigger-first-print",
+    "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/eec3ca4aacc9d150561500b57e92a9c57d4632c3d2dd1073cfa45ff582131a3d/60.jpg",
+    "sourceQuery": "chrono trigger",
+    "cibPriceUsd": 163.02,
+    "newPriceUsd": 260.78,
+    "scrapedAt": "2026-11-23T10:03:05Z"
+  }
+]
